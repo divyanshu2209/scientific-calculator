@@ -1,3 +1,12 @@
+## Scientifc Calculator
+![image](https://github.com/divyanshu2209/scientific-calculator/assets/160017461/a16ff618-5a13-49bf-a262-d78fc9908b75)
+
+## Features
+- Basic arithmetic operations (addition, subtraction, multiplication, division)
+- Advanced mathematical functions (trigonometric, logarithmic, factorial, etc.)
+- Memory functions (mc, m+, m-, mr)
+- Angle unit toggle (degrees, radians)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
