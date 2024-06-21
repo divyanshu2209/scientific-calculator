@@ -1,5 +1,6 @@
 ## Scientifc Calculator
-![image](https://github.com/divyanshu2209/scientific-calculator/assets/160017461/a16ff618-5a13-49bf-a262-d78fc9908b75)
+![image](https://github.com/divyanshu2209/scientific-calculator/assets/160017461/c1594e3f-1bdf-4c8e-affb-23c318249d3d)
+
 
 ## Features
 - Basic arithmetic operations (addition, subtraction, multiplication, division)
